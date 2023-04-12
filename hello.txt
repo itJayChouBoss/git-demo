@@ -1,6 +1,6 @@
-hello 小周！hello git!  12345 
-hello 小周！hello git!  123456
-hello 小周！hello git!  1234567
+hello 小周！hello git!  123
+hello 小周！hello git!  1234
+hello 小周！hello git!  12345
 hello 小周！hello git!  the is verson3版本
 hello 小周！hello git!
 hello 小周！hello git!
